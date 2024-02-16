@@ -3,7 +3,7 @@
   "displayName": "Sky Follower Bridge",
   "version": "0.9.1",
   "description": "Instantly find and follow the same users from your Twitter follows on Bluesky.",
-  "author": "kawamataryou",
+  "author": "godzzhigella",
   "scripts": {
     "dev": "plasmo dev",
     "build": "plasmo build",

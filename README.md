@@ -1,17 +1,10 @@
-# Sky Follower Bridge
-
-<a href="https://chrome.google.com/webstore/detail/sky-follower-bridge/behhbpbpmailcnfbjagknjngnfdojpko"><img alt="Chrome web store version" src="https://img.shields.io/chrome-web-store/v/behhbpbpmailcnfbjagknjngnfdojpko.svg"></a>
-<a href="https://chrome.google.com/webstore/detail/sky-follower-bridge/behhbpbpmailcnfbjagknjngnfdojpko"><img alt="Chrome web store rating" src="https://img.shields.io/chrome-web-store/stars/behhbpbpmailcnfbjagknjngnfdojpko.svg"></a>
-<a href="https://chrome.google.com/webstore/detail/sky-follower-bridge/behhbpbpmailcnfbjagknjngnfdojpko"><img alt="Chrome Web Store users" src="https://img.shields.io/chrome-web-store/users/behhbpbpmailcnfbjagknjngnfdojpko"></a>
+# Sky Follower Bridge For Safari
 
 Instantly find and follow the same users from your X(Twitter) follows on Bluesky.
 
-https://github.com/kawamataryo/sky-follower-bridge/assets/11070996/67bdd228-dc67-4d0a-ac18-f3a3e0c7adf9
-
 ## 📦 Installation
 
-- [Chrome Web Store](https://chrome.google.com/webstore/detail/sky-follower-bridge/behhbpbpmailcnfbjagknjngnfdojpko)
-- [Firefox Add-ons](https://addons.mozilla.org/ja/firefox/addon/sky-follower-bridge/)
+Download the latest [build.zip](https://github.com/higedamc/sky-follower-bridge/releases/tag/releases) from releases and unzip it. Then, open it via Xcode to run it.
 
 ## 🚀 How to use
 
@@ -22,11 +15,9 @@ https://github.com/kawamataryo/sky-follower-bridge/assets/11070996/67bdd228-dc67
 5. Bluesky users will appear in the Modal.
 6. Click the "Follow" button to follow them on Bluesky.
 
-## 🔧 Troubleshooting
-
-- Please feel free to mention [@kawamataryo.bsky.social](https://bsky.app/profile/kawamataryo.bsky.social) on Bluesky. They will provide support to ensure the tool is functioning properly.
-- If you get the error "Error: Something went wrong. ...", **please reload the page** and then click on the extension icon again.
-
 ## 🚨 Limitations
 
 - User search may fail due to late limit in Bluesky's API. In this case, please wait for 2 to 3 minutes and execute the search again.
+- Icon is not loaded properly for now.
+
+This is the fork version of [sky-follower-bridge](https://github.com/higedamc/sky-follower-bridge).
